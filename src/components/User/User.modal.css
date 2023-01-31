@@ -1,0 +1,10 @@
+.user {
+    font: inherit;
+    padding: 0.5px 2rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    margin-bottom: 0.5rem;
+    border-radius: 12px;
+}
+
